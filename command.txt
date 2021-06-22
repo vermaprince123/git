@@ -1,0 +1,10 @@
+for checking the version of git= git --version
+for giving the your name = git config --global user.name "your name"
+for giving the your email= git config --global user.email "your mail"
+for editing the name and email = git config --global --edit and exit by :wq
+for creating a new reposatry= git init
+for checking something in this reposatry= ls
+for checking the git status= git status
+for adding the file in git= git add <file name>
+for commit the file in git= git commit -m "message of commit"
+for checking the all commit in git= git log
