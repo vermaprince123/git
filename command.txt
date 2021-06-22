@@ -11,4 +11,12 @@ for checking the all commit in git= git log
 for checking someone change in the file= git status
 for adding all the file in git= git add .
 for going into particular commit= git  checkout <commit hastag>
-for creating a branch= git branch
+for creating a branch= git branch <nameof branch>
+for going inside the branch= git checkout <name of branch>
+direct creating a branch =git checkout -b <name of brach>
+marging the file into other= git merge
+push into the github= git remote -v
+then next time it will take everything= git push
+
+
+
