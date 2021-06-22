@@ -8,3 +8,7 @@ for checking the git status= git status
 for adding the file in git= git add <file name>
 for commit the file in git= git commit -m "message of commit"
 for checking the all commit in git= git log
+for checking someone change in the file= git status
+for adding all the file in git= git add .
+for going into particular commit= git  checkout <commit hastag>
+for creating a branch= git branch
